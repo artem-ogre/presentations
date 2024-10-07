@@ -13,7 +13,23 @@
 
 ## Table of Contents
 
-- [StockholmCpp 0x31: Stories of CDT](#StockholmCpp-0x31)
+- [**SBG User Conference 2018:** ~~Extended~~ slippery slopes](#SBG-User-Conference-2018)
+- [**StockholmCpp 0x31:** Stories of CDT](#StockholmCpp-0x31)
+
+<a name="SBG-User-Conference-2018"></a>
+
+## SBG User Conference 2018: ~~Extended~~ slippery slopes
+
+### Date
+11.2018
+
+### Description
+
+This talk is about the extended slope feature developed in Leica iCON office (SBG Geo Professional): generating a slope that connects the design TIN surface to the terrain TIN surface with a fixed slope angle. The presentation follows the algorithm design process, demonstrates challenges and hidden complexities, and discusses the advantages and limitations of the implementation.
+
+
+### Materials
+* [Slides (PDF)](SBG-User-Conference-2018/Slippery%20Slopes.pdf)
 
 <a name="StockholmCpp-0x31"></a>
 
