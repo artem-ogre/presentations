@@ -43,5 +43,6 @@ This talk is about the extended slope feature developed in Leica iCON office (SB
 CDT is a C++ library for constrained Delaunay triangulation. It started about 5 years ago and will soon reach 1K stars on GitHub. The talk will share stories about developing and maintaining CDT and lessons learned along the way.
 
 ### Materials
+* [Talk (video)](https://www.youtube.com/watch?v=rydjuAZPT_Q)
 * [Slides (PDF)](StockholmCpp-0x31/StockholmCpp-0x31%20slides.pdf)
 * [Survey summary (PDF)](StockholmCpp-0x31/StockholmCpp-0x31%20survey%20summary.pdf)
